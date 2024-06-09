@@ -9,8 +9,8 @@ sidebar:
 
     # Profile information
     name: Wu Xuefei 邬雪菲
-    tagline: a Sophomore
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: a Sophomore in Huazhong University of Science and Technology
+    avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shiftw@hust.edu.cn
@@ -44,9 +44,6 @@ sidebar:
     #   info:
     #     - item: Climbing
     #       link:
-
-
-# career-profile:
 education:
     title: Education
     info:
@@ -54,38 +51,32 @@ education:
         university: Huazhong University of Science and Technology
         time: September 2021 - Present
         details: |
-            GPA: 4.43/5.00, Major Ranking: 6/98
-            English Level: CET-6 557, CSP Certification Top 7%
-            Core Course:    Calculus (94)    C Language Programming (88)    Discrete Mathematics (100)
-                            Data Structures (95)    Assembly Language Programming (92)    Computer Networks (92)
-                            Algorithm Design and Analysis (92)    Principles of Compilers (91)    Principles of Computer Organization (88)
-                            Comprehensive Course Design in Programming (96)
-        #  Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cumsociis natoque penatibus et magnis dis parturient montes, nascetur
-        #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #  pretium quis, sem.
-        #    - Bullet point
-         #   - Bullet point
+            GPA: 4.43/5.00      Major Ranking: 6/98      English Level: CET-6 557      CSP Certification: Top 7% 
+        Core Course: Calculus (94)    C Language Programming (88)    Discrete Mathematics (100)
+                     Data Structures (95)    Assembly Language Programming (92)    Computer Networks (92)
+                     Algorithm Design and Analysis (92)    Principles of Compilers (91)    Principles of Computer Organization (88)
+                     Comprehensive Course Design in Programming (96)
 certifications:
       title: HONORS & AWARDS
       list:
         - name: China Collegiate Programming Contest (CCPC)
-          prize: Bronze Medal
-          time: 2023
+          start: 2023
+          organization: Bronze Medal
         - name: National Undergraduate Mathematical Modeling Competition, Hubei
-          prize: Third Prize
-          time: 2023
+          start: 2023
+          organization: Third Prize
         - name: Software Category, Lanqiao Cup Provincial Contest (Hubei)
-          prize: Second Prize
-          time: 2023
+          start: 2023
+          organization: Second Prize
         - name: National English Competition for College Students, Hubei
-          prize: Third Prize
-          time: 2023
+          start: 2023
+          organization: Third Prize
         - name: MathorCup University Mathematical Modeling Challenge
-          prize: First Prize
-          time: 2023
+          start: 2023
+          organization: First Prize
         - name: Huawei ICT Competition, Ascend AI Track
-          prize: Third Prize
-          time: 2024
+          start: 2024
+          organization: Third Prize
 experiences:
     title: Experiences
     info:
