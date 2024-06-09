@@ -50,12 +50,11 @@ education:
       - degree: Sophomore in Cyberspace Security (Bachelor)
         university: Huazhong University of Science and Technology
         time: September 2021 - Present
-        details: |
-            GPA: 4.43/5.00      Major Ranking: 6/98      English Level: CET-6 557      CSP Certification: Top 7% 
-        Core Course: Calculus (94)    C Language Programming (88)    Discrete Mathematics (100)
-                     Data Structures (95)    Assembly Language Programming (92)    Computer Networks (92)
-                     Algorithm Design and Analysis (92)    Principles of Compilers (91)    Principles of Computer Organization (88)
-                     Comprehensive Course Design in Programming (96)
+        details: | "GPA: 4.43/5.00      Major Ranking: 6/98      English Level: CET-6 557      CSP Certification: Top 7%" |
+          "Core Course: Calculus (94)    C Language Programming (88)           Discrete Mathematics (100)" |
+          "Data Structures (95)          Assembly Language Programming (92)    Computer Networks (92)"    |
+          "Algorithm Design (92)         Principles of Compilers (91)          Principles of Computer Organization (88)" |
+          "Comprehensive Course Design in Programming (96)"
 certifications:
       title: HONORS & AWARDS
       list:
