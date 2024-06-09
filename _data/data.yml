@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Wu Xuefei 邬雪菲
-    tagline: a Sophomore in Huazhong University of Science and Technology
+    tagline: a Junior in Huazhong University of Science and Technology
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,14 +47,10 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: Sophomore in Cyberspace Security (Bachelor)
+      - degree: Junior in Cyberspace Security (Bachelor)
         university: Huazhong University of Science and Technology
         time: September 2021 - Present
-        details: | "GPA: 4.43/5.00      Major Ranking: 6/98      English Level: CET-6 557      CSP Certification: Top 7%" |
-          "Core Course: Calculus (94)    C Language Programming (88)           Discrete Mathematics (100)" |
-          "Data Structures (95)          Assembly Language Programming (92)    Computer Networks (92)"    |
-          "Algorithm Design (92)         Principles of Compilers (91)          Principles of Computer Organization (88)" |
-          "Comprehensive Course Design in Programming (96)"
+        details: | "GPA: 4.43/5.00&nbsp&nbsp&nbsp&nbspMajor Ranking: 6/98&nbsp&nbsp&nbsp&nbspEnglish Level: CET-6 557&nbsp&nbsp&nbsp&nbspCSP Certification: Top 7%" | "Core Course: Calculus (94)&nbsp&nbsp&nbsp&nbspC Language Programming (88)&nbsp&nbsp&nbsp&nbspDiscrete Mathematics (100)" |"Data Structures (95)&nbsp&nbsp&nbsp&nbspAssembly Language Programming (92)&nbsp&nbsp&nbsp&nbspComputer Networks (92)"    |"Algorithm Design (92)&nbsp&nbsp&nbsp&nbspPrinciples of Compilers (91)&nbsp&nbsp&nbsp&nbspPrinciples of Computer Organization (88)" |"Comprehensive Course Design in Programming (96)"
 certifications:
       title: HONORS & AWARDS
       list:
